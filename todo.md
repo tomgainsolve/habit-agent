@@ -2,29 +2,29 @@
 
 ## Phase 0 - Bootstrap & CI
 ### Chunk 0.1 - Repo & Tooling
-- [ ] Initialize Git repository
-- [ ] Add .gitignore
-- [ ] Create README.md with project intro
-- [ ] Initial commit
+- [x] Initialize Git repository
+- [x] Add .gitignore
+- [x] Create README.md with project intro
+- [x] Initial commit
 
 ### Chunk 0.2 - Python Environment
-- [ ] Create pyproject.toml (Poetry)
-- [ ] Add core dependencies (fastapi, pydantic, uvicorn, pytest)
-- [ ] Add development dependencies (black, isort, pytest-cov)
-- [ ] Create scripts/ directory for tooling
+- [x] Create pyproject.toml (Poetry)
+- [x] Add core dependencies (fastapi, pydantic, uvicorn, pytest)
+- [x] Add development dependencies (black, isort, pytest-cov)
+- [x] Create scripts/ directory for tooling
 
 ### Chunk 0.3 - Node Environment
-- [ ] Initialize Next.js TypeScript project in frontend/
-- [ ] Install core dependencies (next, react)
-- [ ] Install testing dependencies (jest, testing-library)
-- [ ] Set up Jest configuration
-- [ ] Create sample test
+- [x] Initialize Next.js TypeScript project in frontend/
+- [x] Install core dependencies (next, react)
+- [x] Install testing dependencies (jest, testing-library)
+- [x] Set up Jest configuration
+- [x] Create sample test
 
 ### Chunk 0.4 - Docker & CI
-- [ ] Create backend Dockerfile
-- [ ] Create frontend Dockerfile
-- [ ] Set up GitHub Actions workflow
-- [ ] Verify CI pipeline
+- [x] Create backend Dockerfile
+- [x] Create frontend Dockerfile
+- [x] Set up GitHub Actions workflow
+- [x] Verify CI pipeline
 
 ## Phase 1 - Backend Core API
 ### Chunk 1.1 - FastAPI Skeleton
